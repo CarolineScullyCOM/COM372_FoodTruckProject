@@ -1,0 +1,146 @@
+<style>
+
+h1{  color:Red
+}
+h1{  border-style: groove;
+}
+h1{  border-width: thick;
+}
+h1{  border-color: Tomato
+}
+h1 { font-size: 800%;
+}
+h1{  font-family: Brush Script Std cursive;
+}
+h1 {  font-stretch: ultra-condensed;
+}
+h1 {  text-align: center;
+}
+h2{
+  font-size: 650%
+}
+h2 {
+  border-style: ridge;
+  border-color:
+}
+h2 {
+  font-family: inherit;
+  font-stretch: ultra-condensed;
+  color: Tomato;
+}
+h2 {
+  text-align: center;
+}
+h2 {
+  font-stretch: ultra-condensed;
+}
+h3 {
+  font-style: oblique;
+}
+h3 {
+  font-family: cursive;
+}
+h3 {
+  font-size: 300%
+}
+h3 {
+  text-align: center;
+}
+h3 {
+  font-stretch: extra-expanded;
+}
+h3 {
+  font-family: Brush Script Std cursive;
+}
+h3 {
+  color: DarkSalmon
+}
+h3 {
+  text-decoration: underline;
+}
+h4 {
+  font-size: 150%
+}
+h4 {
+  font-style: normal;
+}
+h4 {
+  font-family: serif;
+}
+h4 {
+  text-align: center;
+}
+h4 {
+  color: IndianRed
+}
+h4 {
+  border: 2px dotted;
+}
+h4 {
+  border-color: Coral
+}
+h4 {
+  border-width: thick;
+}
+h5 {
+  text-align: center;
+}
+h5 {
+  color: DarkGrey
+}
+h5 {
+  font-style: oblique;
+}
+h5 {
+  font-family: serif;
+}
+h5 {
+  text-decoration: overline;
+}
+h5 {
+  font-size: 200%
+}
+li {
+  text-align: center;
+}
+li {
+  font-size: 160%
+}
+li {
+  font-stretch: semi-expanded;
+}
+li {
+  text-decoration: underline;
+  color: IndianRed
+}
+em {
+  font-size: 140%
+}
+em {
+  text-align: center;
+}
+em {
+  color: DimGray
+}
+p {
+  font-size: 180%
+}
+p {
+  color: LightSlateGrey
+}
+p {
+  text-align: center;
+}
+#list1 li{
+  display:inline-block;
+  margin: 60px;
+  font-size:2.3em
+}
+Nav {
+  background-color: tomato
+}
+#DRK {
+  float: left;
+}
+
+</style>
